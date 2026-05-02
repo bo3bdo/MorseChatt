@@ -14,7 +14,7 @@ Users can delete their accounts and data directly from the app settings.
 - Communication is end-to-end encrypted where supported by the server.  
 
 **Contact**  
-For privacy inquiries, please contact: [your support email]
+For privacy inquiries, please contact: bo3bdo@hotmail.com
 
 ---
 
@@ -30,4 +30,4 @@ For privacy inquiries, please contact: [your support email]
 - الاتصالات مشفرة من طرف إلى طرف عند دعم الخادم لذلك.  
 
 **التواصل**  
-للاستفسارات المتعلقة بالخصوصية: [بريدك الإلكتروني للدعم]
+للاستفسارات المتعلقة بالخصوصية: bo3bdo@hotmail.com
